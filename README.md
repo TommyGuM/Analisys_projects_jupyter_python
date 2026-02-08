@@ -19,6 +19,8 @@ A/B Test Simulation: Расчет необходимого размера выб
 
  <img width="878" height="558" alt="image" src="https://github.com/user-attachments/assets/c671993e-ba4c-4682-9682-cacf3e865a42" />
 
+ https://github.com/TommyGuM/Analisys_projects_jupyter_python/blob/main/proekt_6.ipynb
+
  
  Бизнес-рекомендации
 Пересмотреть тарифную сетку для пользователей с нагрузкой > 500 мин/мес.
